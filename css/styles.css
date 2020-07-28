@@ -73,9 +73,9 @@ p {
 
   .iphone-img {
     position: relative;
-    transform: rotate(0);
+    transform: rotate(15deg);
     margin-left: 50%;
-    width: 40%;
+    width: 25%;
   }
 }
 
